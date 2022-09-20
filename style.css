@@ -1,0 +1,54 @@
+.carousel-item{
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+.carousel-item img{
+    height: 500px;
+}
+.nav-link{
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: blue !important;
+    border-top: yellow solid 1px;
+}
+.navbar-nav a:hover{
+    background: green;
+    padding: 20px;
+   
+
+}
+.carousel-item{
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+.carousel-item img{
+    height: 500px;
+}
+  /* google map */
+.map-responsive{
+    overflow: hidden;
+    padding-bottom: 50%;
+    position: relative;
+    height: 0;
+  }
+  .map-responsive iframe{
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+  .text-center i:hover{
+    background: red;
+
+
+  }
+  .card:hover{
+    margin-top: -30px;
+        margin-left: -30px;
+        transform: rotate(360deg);
+        background: yellow;
+    }
